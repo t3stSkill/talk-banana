@@ -1,0 +1,22 @@
+* {
+	margin: 0px auto;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+a {
+	text-decoration: none;
+}
+
+ol,
+ul {
+	list-style-type: none;
+}
+
+img{
+  vertical-align: middle;
+}
+
+body{
+  position: relative;
+}
